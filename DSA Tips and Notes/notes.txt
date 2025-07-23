@@ -1,0 +1,1 @@
+For Sumation from 1 to N: n*(n+1)/2
