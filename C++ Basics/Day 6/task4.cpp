@@ -3,6 +3,7 @@
 #include "task2.h"
 #include "task3.h"
 using namespace std;
+using namespace SortAlgo;
 
 void printArray(int arr[], int n){
     for (int i = 0; i < n; i++)
